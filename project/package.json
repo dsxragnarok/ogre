@@ -1,0 +1,31 @@
+{
+  "name": "ogre",
+  "version": "0.0.0",
+  "description": "Strategy game in style of Romance of the Three Kingdoms with real-time world movement and Ogre Battle style combat.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dsxragnarok/ogre.git"
+  },
+  "keywords": [
+    "ogre",
+    "battle",
+    "romance",
+    "three",
+    "kingdoms'",
+    "strategy",
+    "game",
+    "real-time",
+    "rts",
+    "4x"
+  ],
+  "author": "Kevin Phung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsxragnarok/ogre/issues"
+  },
+  "homepage": "https://github.com/dsxragnarok/ogre#readme"
+}
