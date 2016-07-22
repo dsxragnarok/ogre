@@ -27,5 +27,16 @@
   "bugs": {
     "url": "https://github.com/dsxragnarok/ogre/issues"
   },
-  "homepage": "https://github.com/dsxragnarok/ogre#readme"
+  "homepage": "https://github.com/dsxragnarok/ogre#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-header": "^1.8.7",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  }
 }
